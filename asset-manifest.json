@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Deepak-Kumar/static/css/main.a779a38e.css",
-    "main.js": "/Deepak-Kumar/static/js/main.3f5d4a18.js",
+    "main.css": "/Deepak-Kumar/static/css/main.71fd6edb.css",
+    "main.js": "/Deepak-Kumar/static/js/main.fcb604df.js",
     "static/media/pizza-app.mp4": "/Deepak-Kumar/static/media/pizza-app.3402979d2031002928bd.mp4",
     "static/media/groupchat.mp4": "/Deepak-Kumar/static/media/groupchat.c4e885f1838f430a3848.mp4",
     "static/media/oneChat.mp4": "/Deepak-Kumar/static/media/oneChat.5a47a4653cfd758d641d.mp4",
@@ -48,11 +48,11 @@
     "static/media/doctor.webp": "/Deepak-Kumar/static/media/doctor.b6245ccc70c620e85ec0.webp",
     "static/media/basic-details.png": "/Deepak-Kumar/static/media/basic-details.71925b559fa3ddd991ec.png",
     "index.html": "/Deepak-Kumar/index.html",
-    "main.a779a38e.css.map": "/Deepak-Kumar/static/css/main.a779a38e.css.map",
-    "main.3f5d4a18.js.map": "/Deepak-Kumar/static/js/main.3f5d4a18.js.map"
+    "main.71fd6edb.css.map": "/Deepak-Kumar/static/css/main.71fd6edb.css.map",
+    "main.fcb604df.js.map": "/Deepak-Kumar/static/js/main.fcb604df.js.map"
   },
   "entrypoints": [
-    "static/css/main.a779a38e.css",
-    "static/js/main.3f5d4a18.js"
+    "static/css/main.71fd6edb.css",
+    "static/js/main.fcb604df.js"
   ]
 }
