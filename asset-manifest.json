@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Deepak-Kumar/static/css/main.a779a38e.css",
-    "main.js": "/Deepak-Kumar/static/js/main.4e5cad38.js",
+    "main.js": "/Deepak-Kumar/static/js/main.3f5d4a18.js",
     "static/media/pizza-app.mp4": "/Deepak-Kumar/static/media/pizza-app.3402979d2031002928bd.mp4",
     "static/media/groupchat.mp4": "/Deepak-Kumar/static/media/groupchat.c4e885f1838f430a3848.mp4",
     "static/media/oneChat.mp4": "/Deepak-Kumar/static/media/oneChat.5a47a4653cfd758d641d.mp4",
@@ -26,6 +26,7 @@
     "static/media/10.png": "/Deepak-Kumar/static/media/10.4cf6fbd3047bab06247b.png",
     "static/media/12.png": "/Deepak-Kumar/static/media/12.ec388bf9d0b0acbd71fb.png",
     "static/media/123.png": "/Deepak-Kumar/static/media/123.07b30fbb1c5479729386.png",
+    "static/media/deepak(cv-1).pdf": "/Deepak-Kumar/static/media/deepak(cv-1).11d640a7bddcee0741bb.pdf",
     "static/media/deepak(cv).pdf": "/Deepak-Kumar/static/media/deepak(cv).a67b211ff3d340448b55.pdf",
     "static/media/expense1.jpeg": "/Deepak-Kumar/static/media/expense1.f45de1c7463960ffa4d4.jpeg",
     "static/media/expenseSchema.png": "/Deepak-Kumar/static/media/expenseSchema.f06696c84ebb6094635a.png",
@@ -48,10 +49,10 @@
     "static/media/basic-details.png": "/Deepak-Kumar/static/media/basic-details.71925b559fa3ddd991ec.png",
     "index.html": "/Deepak-Kumar/index.html",
     "main.a779a38e.css.map": "/Deepak-Kumar/static/css/main.a779a38e.css.map",
-    "main.4e5cad38.js.map": "/Deepak-Kumar/static/js/main.4e5cad38.js.map"
+    "main.3f5d4a18.js.map": "/Deepak-Kumar/static/js/main.3f5d4a18.js.map"
   },
   "entrypoints": [
     "static/css/main.a779a38e.css",
-    "static/js/main.4e5cad38.js"
+    "static/js/main.3f5d4a18.js"
   ]
 }
