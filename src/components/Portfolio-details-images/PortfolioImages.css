@@ -1,0 +1,9 @@
+.image-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+}
+
+.border-1 {
+    background-color: blueviolet;
+}
