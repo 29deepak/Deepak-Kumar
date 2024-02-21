@@ -36,3 +36,10 @@
 .tool-tech1 {
     background-color: blueviolet;
 }
+
+.portfolio__container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}

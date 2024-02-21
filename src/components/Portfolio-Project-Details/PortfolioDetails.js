@@ -10,6 +10,9 @@ const PortfolioDetails = () => {
         {
             id: 6,
             title: 'EXPENSE TRACKER APP',
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             introduction: 'Our expense tracker is designed to simplify this process by providing users with a comprehensive tool to monitor and analyze their expenses effortlessly. From daily purchases to monthly bills, expenses can quickly add up, making it difficult to maintain a clear understanding of where money is being spent. Our expense tracker addresses this issue by offering a user-friendly platform to record, categorize, and analyze expenses in real-time. By organizing expenses into categories, setting budgets, and generating insightful reports, users can gain a deeper understanding of their spending patterns and identify areas for improvement.',
             features: [{ heading: 'User Authentication with JWT:', details: ['Users can securely register and log in to the expense tracker system.', 'Authentication is implemented using JSON Web Tokens (JWT), ensuring data security and user privacy.', 'Each user receives a unique token upon successful authentication, which is used to authenticate subsequent requests to the server.'] }
                 , { heading: "Password Encryption with Bcrypt:", details: ['User passwords are encrypted using the Bcrypt library before storing them in the database.', 'Bcrypt provides a strong and reliable encryption mechanism, protecting user passwords from unauthorized access or breaches.'] },
@@ -60,6 +63,9 @@ const PortfolioDetails = () => {
         {
             id: 5,
             title: "Group Chat App",
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
 
             introduction: "With a user-friendly interface, robust security measures, and customizable options, it ensures a safe and personalized experience for users of all ages and backgrounds. As technology continues to evolve, this chat app remains at the forefront, shaping the future of communication and fostering meaningful connections in a digital world.",
 
@@ -228,6 +234,9 @@ const PortfolioDetails = () => {
         {
             id: 7,
             title: "Profile Update App",
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             introduction: "users can effortlessly update their profile information, including contact details, work experience, education, skills, and more.Easily upload or change profile photos to ensure a fresh and up-to-date appearance.Access a user-friendly interface that makes the profile update process simple and intuitive, even for novice users.",
             features: [{
                 "heading": "User Registration",
@@ -372,6 +381,9 @@ const PortfolioDetails = () => {
         {
             id: 8,
             title: "Food Delivery App",
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             introduction: "Extensive Menu Selection: Choose from a diverse range of pizza flavors, toppings, and sizes to satisfy your cravings.Customization Options: Personalize your pizza by selecting your favorite toppings, crust types, and additional extras.Effortless Ordering Process: Navigate through our intuitive app interface to place your order quickly and effortlessly.User-Friendly Experience: Designed with simplicity in mind, our app caters to users of all ages and technical backgrounds, making pizza ordering a breeze.",
             features: [
                 {
@@ -506,6 +518,9 @@ const PortfolioDetails = () => {
         {
             id: 9,
             title: "One to One Chat App",
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             introduction: "Welcome to our One to One Chat App, a platform designed to facilitate seamless communication between users.In today's fast-paced digital world, staying connected with friends, family, and colleagues is more important than ever.Whether you want to catch up with a friend, collaborate on a project with a colleague, or share updates with family members, our app provides a convenient and reliable way to stay connected.",
             features: [{
                 heading: 'User Authentication:', details: ['Users sign up and log in securely using JSON Web Tokens (JWT) and encrypted passwords with bcrypt.']
@@ -614,6 +629,9 @@ const PortfolioDetails = () => {
         }, {
             id: 10,
             title: 'EXPENSE TRACKER APP',
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             introduction: 'Our expense tracker is designed to simplify this process by providing users with a comprehensive tool to monitor and analyze their expenses effortlessly. From daily purchases to monthly bills, expenses can quickly add up, making it difficult to maintain a clear understanding of where money is being spent. Our expense tracker addresses this issue by offering a user-friendly platform to record, categorize, and analyze expenses in real-time. By organizing expenses into categories, setting budgets, and generating insightful reports, users can gain a deeper understanding of their spending patterns and identify areas for improvement.',
             features: [{
                 "heading": "Expense Tracking Table",
@@ -703,6 +721,9 @@ const PortfolioDetails = () => {
         }, {
             id: 11,
             title: "Blood Bank App",
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             "introduction": "Welcome to the Blood Bank App, a revolutionary platform dedicated to facilitating blood donation and saving lives. With the power of technology, our app aims to connect blood donors with recipients in need, ensuring timely access to life-saving blood transfusions. Whether you're a donor willing to contribute to the community or a recipient seeking urgent assistance, our app provides a seamless and efficient way to match donors with recipients. Through a user-friendly interface and advanced features, we strive to streamline the blood donation process, making it accessible to all. Join us in our mission to make a difference and save lives one donation at a time.",
             features: [{
                 "heading": "Donor Registration:",
@@ -943,6 +964,9 @@ const PortfolioDetails = () => {
         {
             id: 12,
             title: "Doctor Appointment App",
+            demo: <Link to={`/portfolio/demo/${id}`} className="btn btn-primary" target="_blank">Live Demo</Link>,
+            schema: <Link to={`/portfolio/schema/${id}`} className="btn btn-primary" target="_blank">Schema</Link>,
+            image: <Link to={`/portfolio/images/${id}`} className="btn btn-primary" target="_blank">Demo Images</Link>,
             introduction: "Patients can effortlessly find, book, and manage appointments with their preferred doctors. With intuitive search filters and real-time availability, scheduling appointments is quick and convenient. For doctors, the app seamlessly integrates with their schedules, reducing no-shows and optimizing patient care. Features like appointment reminders and telemedicine consultations enhance the overall healthcare experience. Join us in transforming healthcare appointment management with our user-friendly Doctor Appointment App.",
             features: [
                 {
@@ -1184,6 +1208,23 @@ const PortfolioDetails = () => {
                     <h2 className='details-portfolio'>{projectDetailsFilter.title}</h2>
                     <Link to="/portfolio" className="btn btn-primary">Go Back</Link>
                 </div>
+                {
+                    projectDetailsFilter.demo && projectDetailsFilter.schema && projectDetailsFilter.image && <>
+                        <div className='portfolio__container2'>
+                            <div style={{ marginRight: "20px" }}>
+
+                                {projectDetailsFilter.demo}
+                            </div>
+                            <div style={{ marginRight: "20px" }}>
+                                {projectDetailsFilter.schema}
+                            </div>
+                            <div>
+                                {projectDetailsFilter.image}
+                            </div>
+                        </div>
+                    </>
+                }
+
                 {
                     projectDetailsFilter.introduction && <>
 
