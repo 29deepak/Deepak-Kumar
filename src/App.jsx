@@ -6,7 +6,7 @@ import Experience from './components/Experiences-gain/Experience1'
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact'
 import PortfolioDetails from './components/Portfolio-Project-Details/PortfolioDetails';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, HashRouter } from 'react-router-dom';
 import PortfolioDemo from './components/Portfolio-details-demo/PortfolioDemo';
 import PortfolioSchema from './components/portfolio-details-schema/PortfolioSchema';
 import PortfolioImages from './components/Portfolio-details-images/PortfolioImages';
@@ -16,7 +16,7 @@ import Service from './components/Services-profile/Service';
 import Internship from './components/Internship/Internship';
 function App() {
   return (
-    <Router basename="/Deepak-Kumar">
+    <HashRouter basename="/Deepak-Kumar">
       <Switch>
         <Route exact path="/" component={Home}></Route>
         <Route exact path="/about" component={About}></Route>
@@ -36,7 +36,7 @@ function App() {
 
 
       </Switch>
-    </Router>
+    </HashRouter >
   );
 }
 export default App;

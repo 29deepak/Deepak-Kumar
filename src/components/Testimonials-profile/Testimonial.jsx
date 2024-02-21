@@ -14,24 +14,24 @@ const Testimonial = () => {
     const data = [
         {
             id: 1,
-            name: "Deepak Kumar",
-            review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ab atque, deserunt, exercitationem eligendi a inventore architecto eos fuga iure explicabo animi maxime voluptates cumque. Ab saepe porro optio similique!.'
+            name: "Abhishek Kumar",
+            review: 'The 100% customizable nature of the templates provides you with the desired flexibility to edit your presentations. The content-ready slides give you the much-needed structure.'
         },
         {
             id: 2,
-            name: "ABC",
-            review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ab atque, deserunt, exercitationem eligendi a inventore architecto eos fuga iure explicabo animi maxime voluptates cumque. Ab saepe porro optio similique!.'
+            name: "Pranay Pankaj",
+            review: 'Organizations, therefore, need a new approach to project management, and executives require skills and a project-driven organizational structure to monitor and assess the progress and growth of operations. '
         },
-        {
-            id: 3,
-            name: "XYZ",
-            review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ab atque, deserunt, exercitationem eligendi a inventore architecto eos fuga iure explicabo animi maxime voluptates cumque. Ab saepe porro optio similique!.'
-        },
-        {
-            id: 4,
-            name: "WUV",
-            review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ab atque, deserunt, exercitationem eligendi a inventore architecto eos fuga iure explicabo animi maxime voluptates cumque. Ab saepe porro optio similique!.'
-        }
+        // {
+        //     id: 3,
+        //     name: "XYZ",
+        //     review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ab atque, deserunt, exercitationem eligendi a inventore architecto eos fuga iure explicabo animi maxime voluptates cumque. Ab saepe porro optio similique!.'
+        // },
+        // {
+        //     id: 4,
+        //     name: "WUV",
+        //     review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ab atque, deserunt, exercitationem eligendi a inventore architecto eos fuga iure explicabo animi maxime voluptates cumque. Ab saepe porro optio similique!.'
+        // }
     ]
     return (
         <section id="testimonials">
