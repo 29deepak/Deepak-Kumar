@@ -1,0 +1,45 @@
+.portfolio__container1 {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* background-color: blue; */
+    flex-direction: column;
+}
+
+
+.prj-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: brown;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.intoduction {
+    background-color: transparent;
+    color: white;
+}
+
+.heading-icon {
+    display: flex;
+
+}
+
+.tools-tech {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20rem;
+
+}
+
+.tool-tech1 {
+    background-color: blueviolet;
+}
+
+.portfolio__container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
